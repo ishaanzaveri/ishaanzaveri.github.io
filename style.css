@@ -1,0 +1,65 @@
+body {
+	background: #262626;
+	color: #f5f5f5;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-fluid {
+	padding: 0px;
+}
+
+.about-me {
+	background-color: #262626;
+}
+
+.content {
+	padding: 30px;
+}
+
+.navbar-brand {
+	font-family: 'Grey Qo', cursive;
+	font-size: 2rem;
+}
+
+.my-pictures {
+	background-color: #424242;
+}
+
+li {
+	font-size: 1rem;
+}
+
+.scroll-up button {
+	color: #fff;
+	background-color: #00796b;
+	border: #fff solid 1px;
+	outline: #00796baa solid 1px;
+	padding: 15px 30px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 300;
+	margin: 15px 0;
+}
+
+.scroll-up button:hover {
+	border: #00796baa solid 1px;
+	outline: #fff solid 1px;
+	background-color: #fff;
+	color: #00796baa;
+}
+
+a {
+	color: #02cab3aa;
+}
+
+a:hover {
+	color: #00796b99;
+}
+
+  
+ img{
+	max-width: 100%;
+	max-height: 70vh;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
